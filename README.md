@@ -122,7 +122,7 @@ We welcome contributions! Please read the [CONTRIBUTING.md](link-to-contributing
 
 ## License
 
-This repository is licensed under the [License Name]. See the [LICENSE](link-to-license-file) file for details.
+This repository is licensed under the [MIT License]. See the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
 
